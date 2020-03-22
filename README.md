@@ -1,6 +1,7 @@
 # flat-wallpapers-laptop
-a collection of flat wallpapers collected from the internet
-
+A collection of flat wallpapers collected from the internet.
+All rights go to the artists that created these wallpapers. 
+I'm just trying to spread these wallpapers, if I'm breaking any rules I'll take down the repository or the images that conflict with for example copyright laws.
 ![nr1](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper1.png)
 ![nr2](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper2.jpg)
 ![nr3](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper3.jpg)
