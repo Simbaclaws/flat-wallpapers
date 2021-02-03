@@ -29,3 +29,6 @@ I'm just trying to spread these wallpapers, if I'm breaking any rules I'll take 
 ![nr25](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper25.jpg)
 ![nr26](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper26.jpg)
 ![nr27](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper27.jpg)
+![nr28](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper28.png)
+![nr29](https://github.com/Simbaclaws/flat-wallpapers/blob/master/wallpaper29.jpg)
+
